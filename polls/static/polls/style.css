@@ -1,0 +1,20 @@
+body {
+    background: white url("images/bg.PNG") no-repeat;
+    background-position: left;
+}
+
+h1 {
+    background-color: darkorange;
+    width: 1110px;
+    color: white;
+}
+ul {
+    list-style: none;
+    color: white;
+}
+li a {
+    color: white;
+}
+a {
+    color: darkorange;
+}
